@@ -4,6 +4,44 @@
   
     
     <entry>
+      <title>三个</title>
+      <link href="/2024/01/05/%E4%B8%89%E4%B8%AA/"/>
+      <url>/2024/01/05/%E4%B8%89%E4%B8%AA/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.</p><p>Quick Start<br>Create a new post<br>BASH</p><p>早上好</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第二篇文章干嘛</title>
+      <link href="/2024/01/05/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0%E5%B9%B2%E5%98%9B/"/>
+      <url>/2024/01/05/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0%E5%B9%B2%E5%98%9B/</url>
+      
+        <content type="html"><![CDATA[<h3 id="1-This-is-a-blog-Test"><a href="#1-This-is-a-blog-Test" class="headerlink" title="1. This is a blog Test"></a>1. This is a blog Test</h3><ul><li>First</li><li>Second</li></ul><hr><h3 id="2-Show-Text"><a href="#2-Show-Text" class="headerlink" title="2. Show Text"></a>2. Show Text</h3><ul><li><strong>这是加粗</strong><blockquote><p><em>这是斜体</em></p></blockquote></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> blog1 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Test </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2024/01/04/hello-world/"/>
       <url>/2024/01/04/hello-world/</url>
